@@ -13,3 +13,5 @@ admin_order.php is the page for the admin to get the details of the orders.
 shopping cart folder consists of the user order page and the basic stuff for creating it like images,css etc.
 
 reg folder consists of the contest page.
+
+bg2,doll are for i-frames.
