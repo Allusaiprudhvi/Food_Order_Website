@@ -15,3 +15,5 @@ shopping cart folder consists of the user order page and the basic stuff for cre
 reg folder consists of the contest page.
 
 bg2,doll are for i-frames.
+
+food_order.sql file contains code for creating tables.
